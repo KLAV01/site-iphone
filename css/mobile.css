@@ -14,7 +14,7 @@
 
     #cabecalho nav{
         margin-top: 10px;
-        display: none;
+        display: block;
     }
 
     #cabecalho nav li{
@@ -26,7 +26,7 @@
         
 
     #versoes #modelos{
-            grid-template-columns: repeat(4,auto);
+            grid-template-columns: repeat(2,auto);
     }
  
 
